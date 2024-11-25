@@ -1,0 +1,18 @@
+
+{
+    "students":[
+        {
+            "name":"john",
+            "age":23,
+            "skills":["html","css","js"],
+            "address":{
+                "city":"hyd",
+                "state":"telangana"
+            }
+        }
+    ]
+}
+
+
+
+
